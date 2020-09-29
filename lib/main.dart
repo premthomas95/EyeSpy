@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                   Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
-                        Text('i',
+                        Text('Eye',
                             style: TextStyle(
                                 fontSize: 38.0,
                                 fontWeight: FontWeight.bold,
