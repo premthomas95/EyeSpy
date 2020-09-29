@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         child: Container(
           child: SafeArea(
             child: Padding(
-              padding: EdgeInsets.symmetric(horizontal: 29, vertical: 30),
+              padding: EdgeInsets.symmetric(horizontal: 28, vertical: 30),
               child: Column(
                 children: <Widget>[
                   Icon(
